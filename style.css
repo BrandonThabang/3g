@@ -60,14 +60,14 @@ input[type=text]:focus, input[type=number]:focus {
 		height: auto;
 		max-width: 80%;
 		min-width: 80%;
-		font-size: 55px;
+		font-size: 50px;
 	}
 	input[type=text], input[type=number] {
-		font-size: 55px;
+		font-size: 45px;
 	}
 	.registerbtn{
 		margin-top: 10px;
-		font-size: 55px;
+		font-size: 50px;
 	}
 }
 
